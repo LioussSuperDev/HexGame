@@ -16,7 +16,7 @@ namespace HexGame
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new new_game_form());
         }
     }
 }
